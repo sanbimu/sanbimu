@@ -1,8 +1,9 @@
 Hello, I'm Nathalie! I'm a front end web developer with an eye for detail and the aesthetically pleasing.
 
-- 🫧 I’m working on [vibe](https://github.com/n-vh/vibe), a social media website.  
+- 🫧 I’m working on [tickettribe](https://github.com/sanbimu/tickettribe), a concert ticket website.  
 - 🔭 I’m currently diving deeper into React. 
-- 🌱 I'm looking for opportunities that could help me grow as a developer and learn more about UI/UX design. 
+- 🌱 I'm looking for opportunities that could help me grow as a developer and learn more about UI/UX design.
+- ✨ You can find my designs [here](https://dribbble.com/sanbimu)
 
 <h4>Toolbox:</h4>
    <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
